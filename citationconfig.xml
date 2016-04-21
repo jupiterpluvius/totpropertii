@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/CitationConfiguration.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<CitationConfiguration xmlns="http://chs.harvard.edu/xmlns/hocuspocus">
+    <online
+        urn="urn:cts:ll:stoa0236.stoa001.ll01:"
+        type="xml"
+        docname="1558Muretus.minim.xml">
+        
+        <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+        <citationMapping>
+            <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                <citation label="Poem" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:div[@n='?']">
+                    <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:div[@n='?']" xpath="/tei:l[@n='?']"/>
+                </citation>
+            </citation>
+        </citationMapping>
+        
+        
+        
+      
+    </online>
+ 
+    <online
+        urn="urn:cts:ll:stoa0236.stoa001.ll02:"
+        type="xml"
+        docname="1577Scaliger.minim.xml">
+        
+        <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+        <citationMapping>
+            <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                <citation label="Poem" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:div[@n='?']">
+                    <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:div[@n='?']" xpath="/tei:l[@n='?']"/>
+                </citation>
+            </citation>
+        </citationMapping>
+    </online>
+    
+    
+    <online
+        urn="urn:cts:ll:stoa0236.stoa001.ll03:"
+        type="xml"
+        docname="1816Lachmann.minim.xml">
+        
+        <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+        <citationMapping>
+            <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                <citation label="Poem" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:div[@n='?']">
+                    <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:div[@n='?']" xpath="/tei:l[@n='?']"/>
+                </citation>
+            </citation>
+        </citationMapping>
+    </online>
+    
+    <online
+        urn="urn:cts:ll:stoa0236.stoa001.ll04:"
+        type="xml"
+        docname="1880Baehrens.minim.xml">
+        
+        <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+        <citationMapping>
+            <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                <citation label="Poem" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:div[@n='?']">
+                    <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:div[@n='?']" xpath="/tei:l[@n='?']"/>
+                </citation>
+            </citation>
+        </citationMapping>
+    </online>
+    
+    
+    
+    <online
+        urn="urn:cts:ll:stoa0236.stoa001.ll05:"
+        type="xml"
+        docname="1933ButlerBarber.minim.xml">
+        
+        <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+        <citationMapping>
+            <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                <citation label="Poem" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:div[@n='?']">
+                    <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:div[@n='?']" xpath="/tei:l[@n='?']"/>
+                </citation>
+            </citation>
+        </citationMapping>
+    </online>
+    
+    
+</CitationConfiguration>

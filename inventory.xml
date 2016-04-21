@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TextInventory xmlns="http://chs.harvard.edu/xmlns/cts" tiversion="5.0.rc.1">
+    <ctsnamespace
+        abbr="ll"
+        ns="http://lingualatina.github.io/ctsns/ll">
+        <description
+            xml:lang="eng">Latin  texts in the Lingua Latina project. </description>
+    </ctsnamespace>
+    
+    <textgroup urn="urn:cts:ll:stoa0236:">
+        <groupname xml:lang="eng">Propertius</groupname>
+        <work urn="urn:cts:ll:stoa0236.stoa001:" xml:lang="lat">
+            <title xml:lang="eng">Elegies</title>
+            <edition urn="urn:cts:ll:stoa0236.stoa001.ll01:">
+                <label xml:lang="eng">Muretus 1558</label>
+                <description xml:lang="eng">Propertius: Elegies (Muretus 1558)</description>
+                <online/>
+                    
+           </edition>
+           
+        
+            <edition urn="urn:cts:ll:stoa0236.stoa001.ll02:">
+                <label xml:lang="eng">Scaliger 1577</label>
+                <description xml:lang="eng">Propertius: Elegies (Scaliger 1577)</description>
+                <online/>
+                
+            </edition>
+            
+            
+            
+            <edition urn="urn:cts:ll:stoa0236.stoa001.ll03:">
+                <label xml:lang="eng">Lachmann 1816</label>
+                <description xml:lang="eng">Propertius: Elegies (Lachmann 1816)</description>
+                <online/>
+                
+            </edition>
+            
+        
+        
+            <edition urn="urn:cts:ll:stoa0236.stoa001.ll04:">
+                <label xml:lang="eng">Baehrens 1880</label>
+                <description xml:lang="eng">Propertius: Elegies (Baehrens 1880)</description>
+                <online/>
+                
+            </edition>
+            
+            
+            
+            
+            <edition urn="urn:cts:ll:stoa0236.stoa001.ll05:">
+                <label xml:lang="eng">Butler-Barber 1933</label>
+                <description xml:lang="eng">Propertius: Elegies (Butler-Barber 1933)</description>
+                <online/>
+                
+            </edition>
+        
+        </work>
+    </textgroup>
+</TextInventory>

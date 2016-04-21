@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?> 
+<?xml-stylesheet type="text/xsl" href="proofing/chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="eng">Propertius Elegies</title>
+                <editor xml:id="rc">Randall Childree</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>A digital edition of Propertius MS N, based on a transcription of Theodorus Birt, Propertius: Codex Guelferbytanus Gudianus 224 olim Neapolitanus, A.W. Sijthoff, 1911.</edition>
+                <respStmt>
+                    <name>Furman University</name>
+                    <resp>Randall Childree, editor</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Furman University </publisher>
+                <authority>
+                    <name>Department of Classics</name>
+                </authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p>File created electronically.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="lat">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="lat">
+        <body>
+            <div type="book" n="1">
+                <div type="poem" n="1">
+                    <l n="1">Cynthia prima suis miseru[m] me cepit ocellis</l>
+                    <l n="2">Contactum nullis ante cupidinib[us]</l>
+                    <l n="3">Tu[m] mi{c}hi constantis deiecit lumina fastus</l>
+                    <l n="4">Et caput inpositis pressit amor pedib[us]</l>
+                    <l n="5">Donec me docuit castas odisse puellas</l>
+                    <l n="6">Imp[ro]b[us] [et] nullo uiuere consilio</l>
+                    <l n="7">Et mi{c}hi ia[m] toto furor hic non deficit anno</l>
+                    <l n="8">Cu[m] tam[en] aduersos cogor habere d[e]os:</l>
+                    <l n="9">Minalion nullos fugiendo tulle labores</l>
+                    <l n="10">Seuiciam dur[a]e contudit jasidos:</l>
+                    <l n="11">Na[m] mo[do] partheniis amens errabat in antris</l>
+                    <l n="12">Ibat [et] hirsutas ille uidere feras:</l>
+                    <l n="13">Ille etiam psilli p[er]cussus uulnere rami</l>
+                    <l n="14">Saucius archadiis rupib[us] ingemuit:</l>
+                    <l n="15">Ergo uelocem potuit domuisse puella[m]</l>
+                    <l n="16">Tantu[m] in amore preces [et] bene facta ualent</l>
+                    <l n="17">In me tard[us] amor n[on] nullas cogitat artes</l>
+                    <l n="18">Nec meminit notas ut pri[us] ire uias</l>
+                    <l n="19">At uos deduct[a]e quib[us] e[st] fallacia lune</l>
+                    <l n="20">Et labor in magicis sacra piare focis</l>
+                    <l n="21">En agedu[m] d[omi]n[a]e mente[m] conuertite n[ost]r[a]e</l>
+                    <l n="22">Et facite illa meo palleat ore magis</l>
+                    <l n="23">T[un]c ego crediderim uobis [et] sidera [et] amnes</l>
+                    <l n="24">Posse cythainis ducere carminibus</l>
+                    <l n="25">Et uos qui sero lapsu[m] reuocatis amici</l>
+                    <l n="26">Querite non sani pectoris auxilia</l>
+                    <l n="27">Fortiter [et] ferru[m] seuos patiemur [et] ignes,</l>
+                    <l n="28">Sit modo libertas qu[a]e uelit ira loqui</l>
+                    <l n="29">Ferte p[er] extremas gentes [et] ferte p[er] undas</l>
+                    <l n="30">Sua non ulla meu[m] femina norit iter</l>
+                    <l n="31">Vos remanete quib[us] facili d[eu]s annuit aure</l>
+                    <l n="32">Sitis [et] in tuto semp[er] amore pares</l>
+                    <l n="33">In me n[ost]ra uen[us] noctes exerc[et] amaras</l>
+                    <l n="34">Et nullo uacuus tempore defit amor</l>
+                    <l n="35">Hoc moneo uitate malu[m] sua que[m]q[ue] moret[ur]</l>
+                    <l n="36">Cura neq[ue] assueto mut[et] amore locum</l>
+                    <l n="37">Q[uo]d si quis monitis tardas adu[er]terit aures</l>
+                    <l n="38">Heu refer[et] quanto uerba dolore mea</l>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

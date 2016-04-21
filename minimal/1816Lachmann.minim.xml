@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?> 
+<?xml-stylesheet type="text/xsl" href="proofing/chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="eng">Propertius: Elegies (Lachmann 1816)</title>
+				<editor xml:id="rc">Randall Childree</editor>
+			</titleStmt>
+			<editionStmt>
+				<edition>Sex. Aurelii Propertii Carmina: emendavit ad codicum meliorum fidem et annotavit Carolus Lachmannus: Lipsiae, apud Gerhard Fleischer Jun.: 1816.
+				</edition>
+				<respStmt>
+					<name>Furman University</name>
+					<resp>Randall Childree, editor</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher> Furman University </publisher>
+				<authority>
+					<name>Departmento of Classics</name>
+				</authority>
+			</publicationStmt>
+			<sourceDesc>File created electronically.</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+				<language ident="lat">Latin</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="lat">
+		<body>
+			<div type="book" n="1">
+				<div type="poem" n="1">
+					<l n="1">Cynthia prima suis miserum me cepit ocellis,</l>
+					<l n="2">Contactum nullis ante cupidinibus.</l>
+					<l n="3">Tum mihi constantis dejecit lumina fastus</l>
+					<l n="4">Et caput inpositis pressit Amor pedibus,</l>
+					<l n="5">Donec me docuit castas odisse puellas</l>
+					<l n="6">Inprobus et nullo vivere consilio.</l>
+					<l n="7">Et mihi jam toto furor hic non deficit anno,</l>
+					<l n="8">Cum tamen adversos cogor habere deos.</l>
+					<l n="9">Milanion nullos fugiendo, Tulle, labores</l>
+					<l n="10">Saevitiam durae contudit Iasidos.</l>
+					<l n="11">Nam modo Partheniis amens errabat in antris,</l>
+					<l n="12">Ibat et hirsutas ille videre feras.</l>
+					<l n="13">Ille etiam Hylaei percussus voluere rami</l>
+					<l n="14">Saucius Arcadiis rupibus ingemuit.</l>
+					<l n="15">Ergo velocem potuit domuisse puellam?</l>
+					<l n="16">Tantum in amore preces et benefacta valent?</l>
+					<l n="17">In me tardus Amor non ullas cogitat artis,</l>
+					<l n="18">Nec meminit notas, ut prius, ire vias.</l>
+					<l n="19">At vos, deductae quibus est fallacia lunae,</l>
+					<l n="20">Et labor in magicis sacra piare focis,</l>
+					<l n="21">En agedum dominae mentem convertite nostrae,</l>
+					<l n="22">Et facite illa meo palleat ore magis.</l>
+					<l n="23">Tunc ego crediderim vobis, et sidera et amnes</l>
+					<l n="24">Posse Cytaeaeis ducere carminibus.</l>
+					<l n="25">Aut vos, qui sero labsum revocatis, amici,</l>
+					<l n="26">Quaerite non sani pectoris auxilia.</l>
+					<l n="27">Fortiter et ferrum, saevos patiemur et ignis:</l>
+					<l n="28">Sit modo libertas quae velit ira loqui.</l>
+					<l n="29">Ferte per extremas gentis et ferte per undas,</l>
+					<l n="30">Qua non ulla meum femina norit iter.</l>
+					<l n="31">Vos remanete, quibus facili deus adnuit aure,</l>
+					<l n="32">Sitis et in tuto semper amore pares.</l>
+					<l n="33">In me nostra Venus noctis exercet amaras,</l>
+					<l n="34">Et nullo vacuus tempore defit amor</l>
+					<l n="35">Hoc, moneo, vitate malum. sua quemque moretur</l>
+					<l n="36">Cura, neque adsueto mutet amore locum.</l>
+					<l n="37">Quod si quis monitis tardas adverterit aures,</l>
+					<l n="38">Heu referet quanto verba dolore mea!</l>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

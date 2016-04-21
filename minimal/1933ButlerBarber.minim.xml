@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?> 
+<?xml-stylesheet type="text/xsl" href="proofing/chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="eng">Propertius: Elegies (Butler-Barber 1933)</title>
+                <editor xml:id="rc">Randall Childree</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>The Elegies of Propertius. Edited with an introduction and commentary by Harold Edgeworth Butler and Eric Arthur Barber. ****
+                </edition>
+                <respStmt>
+                    <name>Furman University</name>
+                    <resp>Randall Childree, editor</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> Furman University </publisher>
+                <authority>
+                    <name>Departmento of Classics</name>
+                </authority>
+            </publicationStmt>
+            <sourceDesc>File created electronically.</sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="lat">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+<text xml:lang="lat">
+	<body>
+		<div type="book" n="1">
+			<div type="poem" n="1">
+				<l n="1">CYNTHIA prima suis miserum me cepit ocellis,</l>
+				<l n="2">contactum nullis ante cupidinibus.</l>
+				<l n="3">tum mihi constantis deiecit lumina fastus</l>
+				<l n="4">et caput impositis pressit Amor pedibus,</l>
+				<l n="5">donec me docuit castas odisse puellas</l>
+				<l n="6">improbus, et nullo uiuere consilio.</l>
+				<l n="7">et mihi iam toto furor hic non deficit anno,</l>
+				<l n="8">cum tamen aduersos cogor habere deos.</l>
+				<l n="9">Milanion nullos fugiendo, Tulle, labores</l>
+				<l n="10">saeuitiam durae contudit Iasidos.</l>
+				<l n="11">nam modo Partheniis amens errabat in antris,</l>
+				<l n="12">ibat et hirsutas ille uidere feras;</l>
+				<l n="13">ille etiam Hylaei percussus uulnere rami</l>
+				<l n="14">saucius Arcadiis rupibus ingemuit.</l>
+				<l n="15">ergo uelocem potuit domuisse puellam:</l>
+				<l n="16">tantum in amore preces et benefacta ualent.</l>
+				<l n="17">in me tardus Amor non ullas cogitat artes,</l>
+				<l n="18">nec meminit notas, ut prius, ire uias.</l>
+				<l n="19">at uos, deductae quibus est fallacia lunae</l>
+				<l n="20">et labor in magicis sacra piare focis,</l>
+				<l n="21">en agedum dominae mentem conuertite nostrae,</l>
+				<l n="22">et facite illa meo palleat ore magis!</l>
+				<l n="23">tunc ego crediderim uobis et sidera et amnes</l>
+				<l n="24">posse Cytinaeis ducere carminibus.</l>
+				<l n="25">aut uos, qui sero lapsum reuocatis, amici,</l>
+				<l n="26">quaerite non sani pectoris auxilia.</l>
+				<l n="27">fortiter et ferrum saeuos patiemur et ignes,</l>
+				<l n="28">sit modo libertas quae uelit ira loqui.</l>
+				<l n="29">ferte per extremas gentes et ferte per undas,</l>
+				<l n="30">qua non ulla meum femina norit iter:</l>
+				<l n="31">uos remanete, quibus facili deus annuit aure,</l>
+				<l n="32">sitis et in tuto semper amore pares.</l>
+				<l n="33">in me nostra Venus noctes exercet amaras,</l>
+				<l n="34">et nullo uacuus tempore defit amor.</l>
+				<l n="35">hoc, moneo, uitate malum: sua quemque moretur</l>
+				<l n="36">cura, neque assueto mutet amore locum.</l>
+				<l n="37">quod si quis monitis tardas aduerterit aures,</l>
+				<l n="38">heu referet quanto uerba dolore mea!</l>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="proofing/chs-gp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -21,7 +21,7 @@
                     <name>Departmento of Classics</name>
                 </authority>
             </publicationStmt>
-            <sourceDesc>File created electronically.</sourceDesc>
+            <sourceDesc><p>File created electronically.</p></sourceDesc>
         </fileDesc>
         <profileDesc>
             <langUsage>

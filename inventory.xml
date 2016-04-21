@@ -54,6 +54,15 @@
                 <online/>
                 
             </edition>
+            
+            
+            
+            <edition urn="urn:cts:ll:stoa0236.stoa001.msN:">
+                <label xml:lang="eng">MS N</label>
+                <description xml:lang="eng">Propertius: Elegies (manuscript N)</description>
+                <online/>
+                
+            </edition>
         
         </work>
     </textgroup>

@@ -85,4 +85,24 @@
     </online>
     
     
+    
+    
+    
+    
+    
+    <online
+        urn="urn:cts:ll:stoa0236.stoa001.msN:"
+        type="xml"
+        docname="msN.11.minim.xml">
+        
+        <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+        <citationMapping>
+            <citation label="Book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n='?']">
+                <citation label="Poem" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']" xpath="/tei:div[@n='?']">
+                    <citation label="Line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n='?']/tei:div[@n='?']" xpath="/tei:l[@n='?']"/>
+                </citation>
+            </citation>
+        </citationMapping>
+    </online>
+    
 </CitationConfiguration>
